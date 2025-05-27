@@ -1,0 +1,2 @@
+# widgets_estaticos
+Esta es una aplicación de demostración de uso de widgets estáticos en flutter, solo contempla la fase de diseño y no así la funcionalidad del formulario en el guardado de los datos
