@@ -10,4 +10,6 @@ estos es una practica en android estudio de fluter un 27 demayo de 2025
 
 Linea aumentada en prueba de actualización 
 
+Linea aumentada en prueba de actualización 
+
 Esta es una prueba definitiva
