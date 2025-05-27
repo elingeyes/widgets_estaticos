@@ -6,10 +6,15 @@ Esta aplicación esta diseñada para un desarrollador con conceptos básicos de 
 Esta es una prueba de actualización
 
 Esta es una prueba de comprobación de cambio en documento.
+estos es una practica en android estudio de fluter un 27 demayo de 2025
 
+Linea aumentada en prueba de actualización 
 
 Linea aumentada en prueba de actualización 
 
 Esta es una prueba definitiva
 
-Este es un nuevo cambio
+Esta es mi primera modificacion
+esto lo ise yo jose david sanchez
+
+esta es mi prueba JoyBoy-31
